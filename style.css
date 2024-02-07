@@ -1,0 +1,15 @@
+#search-box {
+  margin: 20px auto;
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#search-results {
+  margin-top: 10px;
+}
+
+.highlight {
+  text-decoration: underline;
+}
